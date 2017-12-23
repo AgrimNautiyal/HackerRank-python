@@ -1,0 +1,4 @@
+s = input()
+s_int = int(s)
+for i in range(1, s_int+1):
+    print(i, end="")
