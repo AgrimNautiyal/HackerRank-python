@@ -1,0 +1,6 @@
+a=int(int(input()))
+if a>20 :
+    print("wrong input")
+else :
+    for i in range(a):
+        print(int(i*i))
